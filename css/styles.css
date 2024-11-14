@@ -107,15 +107,6 @@ footer {
     font-family: "Comic Sans MS", "Arial Rounded MT Bold", Verdana, sans-serif;
 }
 
-#NavGrid {
-    display: flex;
-    flex-direction: row;
-}
-
-.LiensGauches {
-    padding: 20px;
-}
-
 body {
     height: 100%;
     padding: 0;
