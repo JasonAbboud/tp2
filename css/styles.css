@@ -97,7 +97,7 @@ article {
     margin: 0;
 }
 .invisible{
-    opacity: 0;
+    visibility: hidden;
 }
 
 footer {
