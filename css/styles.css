@@ -96,6 +96,9 @@ article {
     float: top;
     margin: 0;
 }
+.invisible{
+    opacity: 0;
+}
 
 footer {
     background-color: grey;
